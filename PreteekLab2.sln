@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreteekLab2", "PreteekLab2\PreteekLab2.csproj", "{9CDDD355-464C-4DAE-94A1-8E8651CCEDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassUnitTest", "ClassUnitTest\ClassUnitTest.csproj", "{566FD6C5-8B80-4FAF-9AB0-25CA17E06525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDDD355-464C-4DAE-94A1-8E8651CCEDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDDD355-464C-4DAE-94A1-8E8651CCEDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDDD355-464C-4DAE-94A1-8E8651CCEDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDDD355-464C-4DAE-94A1-8E8651CCEDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566FD6C5-8B80-4FAF-9AB0-25CA17E06525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566FD6C5-8B80-4FAF-9AB0-25CA17E06525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566FD6C5-8B80-4FAF-9AB0-25CA17E06525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566FD6C5-8B80-4FAF-9AB0-25CA17E06525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFE494B-03CE-4B3C-8618-384DD31A479A}
+	EndGlobalSection
+EndGlobal
